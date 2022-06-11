@@ -6,7 +6,7 @@ Lo primero que debemo hacer, es dirigirnos al portal de [Azure](https://portal.a
 ## Paso 1
 En el menu seleccionamos la opcion "todos los servicios".
 
-<img style="border: 1px solid; color: black;;" src="![1](https://user-images.githubusercontent.com/99112892/173166390-7805926a-f7d4-45ef-afa3-17939fa3bd2e.png)"/>
+<img style="border: 1px solid; color: black;;" src="(https://user-images.githubusercontent.com/99112892/173166390-7805926a-f7d4-45ef-afa3-17939fa3bd2e.png)"/>
 
 
 ## Paso 2
